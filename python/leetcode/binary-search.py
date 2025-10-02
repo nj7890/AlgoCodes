@@ -20,4 +20,4 @@ def binary_search(arr, target):
     # Target was not found in the array
     return -1
 
-binary_search([1, 2, 3, 4, 5, 6, 7, 8, 9], 5)  # Output: 4
+binary_search([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15], 10)  # Output: 4
