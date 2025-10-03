@@ -33,8 +33,12 @@ It is designed as a collaborative space where contributors can add their solutio
 
 ---
 
-### 
+### Maths
 #### C++
+[Binary 2 Decimal](cpp/geeksforgeeks/maths/binary2DecimalBasic.cpp)
+[Binary 2 Decimal using Buildin Function](cpp/geeksforgeeks/maths/binary2DecimalUsingInBuildFun.cpp)
+[Binary 2 Octal](cpp/geeksforgeeks/maths/binary2Octal.cpp)
+[Decinal 2 Binary](cpp/geeksforgeeks/maths/decimal2binaryBasic.exe)
 
 #### Python 
 
