@@ -48,6 +48,7 @@ It is designed as a collaborative space where contributors can add their solutio
 
 ### Miscellaneous
 #### C++
+[Majority Element](cpp/interviewBit/majority-element.cpp)
 
 #### Python 
 
@@ -72,8 +73,9 @@ It is designed as a collaborative space where contributors can add their solutio
 
 ---
 
-### 
+### Search
 #### C++
+[Search in 2D Matrics](cpp/Searching/Search_In_a_2D_Matrix..cpp)
 
 #### Python 
 
