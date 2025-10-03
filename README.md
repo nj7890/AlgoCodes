@@ -52,6 +52,8 @@ It is designed as a collaborative space where contributors can add their solutio
 #### Python 
 
 #### Java
+[Flipping Bits](java/hackerrank/Miscellaneous/FlippingBits.php)
+[Primality](java/hackerrank/Miscellaneous/Primality.php)
 
 #### PHP
 [Flipping Bits](php/hackerrank/Miscellaneous/FlippingBits.php)
@@ -66,6 +68,7 @@ It is designed as a collaborative space where contributors can add their solutio
 #### Python 
 
 #### Java
+[Fibonacci Number](java/hackerrank/Recursion/FibonacciNumber.php)
 
 ---
 
