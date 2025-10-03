@@ -46,12 +46,90 @@ It is designed as a collaborative space where contributors can add their solutio
 
 ---
 
+### Miscellaneous
+#### C++
+
+#### Python 
+
+#### Java
+
+#### PHP
+[Flipping Bits](php/hackerrank/Miscellaneous/FlippingBits.php)
+[Primality](php/hackerrank/Miscellaneous/Primality.php)
+
+---
+
+### Recursion
+#### PHP
+[Fibonacci Number](php/hackerrank/Recursion/FibonacciNumber.php)
+
+#### Python 
+
+#### Java
+
+---
+
 ### 
 #### C++
 
 #### Python 
 
 #### Java
+
+---
+
+### 
+#### C++
+
+#### Python 
+
+#### Java
+
+---
+
+### 
+#### C++
+
+#### Python 
+
+#### Java
+
+---
+
+### 
+#### C++
+
+#### Python 
+
+#### Java
+
+---
+
+### 
+#### C++
+
+#### Python 
+
+#### Java
+
+---
+
+### 
+#### C++
+
+#### Python 
+
+#### Java
+
+---
+
+### 
+#### C++
+
+#### Python 
+
+#### Java
+
 
 ---
 
