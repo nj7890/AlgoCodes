@@ -42,3 +42,26 @@ Input 1:
 Output 1:
     C = [3, 3, 5, 5, 6, 7]
 */
+
+vector<int> Solution::slidingMaximum(const vector<int> &A, int B) {
+    vector<int> arr;
+    deque<int> dq;
+    if(B>A.size()){
+        // sort(A.begin(),A.end());
+        arr.push_back(*max_element(A.begin(), A.end()));
+        return arr;
+    }
+    
+    for(int i=0;i<A.size();i++){
+        if(!dq.empty() && dq.front() < i-B+1)
+            dq.pop_front();
+        while(!dq.empty() && A[dq.back()] < A[i])
+            dq.pop_back();
+        dq.push_back(i);
+        if(i>=B-1){
+            arr.push_back(A[dq.front()]);
+        }
+    }
+    
+    return arr;
+}
