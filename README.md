@@ -203,7 +203,7 @@ Contributors should add their solutions under the relevant problem.
 #### 🔹 Strings
 - **Pangrams** (./cpp/hackerrank/strings/pangrams)  
 - ✅ **C++**: [rahul_pangrams.cpp](./cpp/hackerrank/strings/pangrams/rahul_pangrams.cpp)
-
+- ✅ **Python**: [Snigdhaaghosh_pangrams.py](./python/hackerrank/strings/pangrams/Snigdhaaghosh_pangrams.py)
 ---
 
 ### 📌 Codeforces
